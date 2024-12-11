@@ -7,7 +7,7 @@ import { collection, getFirestore } from "firebase/firestore";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCayKf5ZtcOu8cSFRU85jAeEU9h6MoXxEo",
+  apiKey: "abcd",
   authDomain: "mobilemech-cse3310.firebaseapp.com",
   projectId: "mobilemech-cse3310",
   storageBucket: "mobilemech-cse3310.appspot.com",
